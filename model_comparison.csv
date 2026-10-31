@@ -1,0 +1,6 @@
+,MAE,RMSE,MAPE_%
+Holt-Winters,15237.35,17997.35,5.76
+Trend + seasonality (regression),15991.97,21940.57,6.1
+Seasonal naive (same month last year),20943.89,24638.76,7.72
+3-month moving average,37079.86,47244.12,13.46
+Naive (last value),34084.47,43140.15,13.67
